@@ -1,0 +1,25 @@
+{
+  "name": "dragon-repeller",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ellaiv/dragon-repeller.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ellaiv/dragon-repeller/issues"
+  },
+  "homepage": "https://github.com/ellaiv/dragon-repeller#readme",
+  "description": "",
+  "devDependencies": {
+    "vite": "^7.3.1"
+  }
+}
